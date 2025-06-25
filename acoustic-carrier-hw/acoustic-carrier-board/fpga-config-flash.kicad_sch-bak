@@ -9728,7 +9728,7 @@
 	)
 	(wire
 		(pts
-			(xy -20.32 171.45) (xy -15.24 171.45)
+			(xy -24.13 171.45) (xy -15.24 171.45)
 		)
 		(stroke
 			(width 0)
@@ -9925,16 +9925,6 @@
 			(type default)
 		)
 		(uuid "c3c54f89-b6f4-41f5-ba75-012af21c4213")
-	)
-	(wire
-		(pts
-			(xy -2.54 184.15) (xy 11.43 184.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4068bba-51c6-4677-a411-b091c265a694")
 	)
 	(wire
 		(pts
@@ -10766,16 +10756,6 @@
 		)
 		(uuid "9a8ca685-970e-4736-b89f-d6a47af8a44c")
 	)
-	(label "QSPI.CSPPIn1"
-		(at 11.43 184.15 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "9cc362cc-3016-44d0-bb21-9fa76bc3b4e9")
-	)
 	(label "QSPI.D2"
 		(at 163.83 142.24 0)
 		(effects
@@ -11044,7 +11024,7 @@
 	)
 	(global_label "VCORE_3V3"
 		(shape passive)
-		(at -20.32 171.45 180)
+		(at -24.13 171.45 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11054,7 +11034,7 @@
 		)
 		(uuid "7cf1fcf8-2568-4907-8d0b-4e2f205df53d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -32.7772 171.45 0)
+			(at -36.5872 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
