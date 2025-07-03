@@ -19,8 +19,16 @@
             <Task name="PARTrace" build_result="0" update_result="3" update_time="0"/>
             <Task name="IOTiming" build_result="0" update_result="3" update_time="0"/>
         </Milestone>
-        <Milestone name="Translate" build_result="0" build_time="0">
-            <Task name="Translate" build_result="0" update_result="3" update_time="0"/>
+        <Milestone name="Synthesis" build_result="0" build_time="1751562167">
+            <Task name="Lattice_Synthesis" build_result="0" update_result="2" update_time="1751562167"/>
+            <Task name="LSE_Compile" build_result="0" update_result="2" update_time="1751562167"/>
+        </Milestone>
+        <Milestone name="TOOL_Report" build_result="0" build_time="0">
+            <Task name="HDLE" build_result="2" update_result="0" update_time="1751562167"/>
+            <Task name="BKM" build_result="0" update_result="3" update_time="0"/>
+            <Task name="SSO" build_result="0" update_result="3" update_time="0"/>
+            <Task name="PIODRC" build_result="0" update_result="3" update_time="0"/>
+            <Task name="DEC" build_result="0" update_result="3" update_time="0"/>
         </Milestone>
     </Strategy>
 </BuildStatus>
