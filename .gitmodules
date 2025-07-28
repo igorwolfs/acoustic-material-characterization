@@ -2,7 +2,7 @@
 	path = kicad_libs
 	url = git@github.com:igorwolfs/kicad_libs.git
 [submodule "acoustic-processing-board"]
-	path = acoustic-processing-board
+	path = acoustic-processing-hw
 	url = git@github.com:igorwolfs/acoustic-processing-board.git
 [submodule "acoustic-piezodriver-hw"]
 	path = acoustic-piezodriver-hw
