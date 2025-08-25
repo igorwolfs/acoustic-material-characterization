@@ -12,7 +12,7 @@
 
 
 ## Piezo-electronics
-- &#9745; Choose the correct resonance frequency depending on the materials
+- Choose the correct resonance frequency depending on the materials
 
 # 2. Design
 ## Piezo
