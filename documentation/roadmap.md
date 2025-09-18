@@ -71,8 +71,6 @@
 	- preview a QSPI memory interface
 		- Quad-SPI, check the required configuration for the EC5
 		- Check if there are any cores for the QSPI
-		- 
-
 
 # 3. Setup
 

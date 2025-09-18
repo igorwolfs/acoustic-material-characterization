@@ -31,8 +31,6 @@ The **preamp** board will likely be covering only part of the 0.1-10 MHz frequen
 #### Initial piezo-choice
 The initial test-piezo used is the [UB161M7](https://www.mouser.de/datasheet/2/334/UB161M7-953231.pdf), which has a resonance frequency of 1.70 MHz.
 
-
-
 #### Isotropic behavior
 In order to get the best possible results, in terms of wave propagation insights and material properties. Ideally isotropic materials are used. Anisotropic materials will likely require lots of calibration and specific digital processing.
 
