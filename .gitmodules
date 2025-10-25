@@ -7,6 +7,3 @@
 [submodule "acoustic-piezodriver-hw"]
 	path = acoustic-piezodriver-hw
 	url = git@github.com:igorwolfs/acoustic-piezodriver-hw.git
-[submodule "acoustic-preamp-hw"]
-	path = acoustic-preamp-hw
-	url = git@github.com:igorwolfs/acoustic-preamp-hw.git
