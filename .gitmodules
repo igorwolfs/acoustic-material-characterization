@@ -10,3 +10,9 @@
 [submodule "acoustic-preamp-hw"]
 	path = acoustic-preamp-hw
 	url = git@github.com:igorwolfs/acoustic-preamp-hw.git
+[submodule "modular-adc-hw"]
+	path = modular-adc-hw
+	url = git@github.com:igorwolfs/modular-adc-hw.git
+[submodule "modular-carrier-hw"]
+	path = modular-carrier-hw
+	url = git@github.com:igorwolfs/modular-carrier-hw.git
