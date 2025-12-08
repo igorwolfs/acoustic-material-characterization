@@ -7,3 +7,6 @@
 [submodule "modular-carrier-hw"]
 	path = modular-carrier-hw
 	url = git@github.com:igorwolfs/modular-carrier-hw.git
+[submodule "acoustic-processing-hw"]
+	path = acoustic-processing-hw
+	url = git@github.com:igorwolfs/acoustic-processing-hw.git
